@@ -20,6 +20,12 @@ Key components of the project:
   - Grading system to evaluate code performance.
   - Expanded feedback support for additional programming languages.
 
+## Video Demo
+
+https://github.com/user-attachments/assets/15d2fd38-640c-4144-8549-543f350ccc03
+
+
+
 ## Dataset
 
 The project uses **The Stack** dataset from the **BigCode Project**, containing over 6TB of source code files across 358 programming languages. This comprehensive dataset is ideal for multi-language code analysis.
